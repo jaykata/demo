@@ -8,6 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "cars": [
+    { "id": 1, "title": "honda" },
+    { "id": 2, "title": "toyota" },
+    { "id": 3, "title": "datsun" }
+  ],
   "profile": {
     "name": "typicode"
   }
