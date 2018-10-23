@@ -13,11 +13,30 @@
     { "id": 2, "title": "toyota" },
     { "id": 3, "title": "datsun" }
   ],
-   "epochs": [
+   "epochs2": [
     { "id": 1, "title": "honda" },
     { "id": 2, "title": "toyota" },
     { "id": 3, "title": "datsun" }
   ],
+    "epochs": [
+{
+"userId": "1",
+"userAccessToken": "1",
+"summaryId": "1",
+"activityType": "WALKING",
+"activeKilocalories": 24,
+"steps": 93,
+"distanceInMeters": 49.11,
+"durationInSeconds": 840,
+"activeTimeInSeconds": 449,
+"startTimeInSeconds": 1519679700,
+"startTimeOffsetInSeconds": -21600,
+"met": 3.3020337,
+"intensity": "ACTIVE",
+"meanMotionIntensity": 4,
+"maxMotionIntensity": 7
+}
+],
   "profile": {
     "name": "typicode"
   }
